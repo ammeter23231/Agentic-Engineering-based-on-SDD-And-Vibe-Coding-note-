@@ -14,7 +14,7 @@ https://www.bilibili.com/video/BV1RPET6tEp2/?spm_id_from=333.788.player.switch&v
 **"2这是1的简化.docx"** 文件（以下简称为2号文件）
 - 是1号文件的精简版
 - 描述了用 CC(Claude Code) 开发前端或后端或其他东西的步骤
-- 推荐先看这个文件
+- 推荐先看完1号文件或者先看完视频再看2号文件
 
 文档内可能有一些不成熟的地方和想法，期待指正喵。😺
 
